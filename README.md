@@ -12,8 +12,10 @@
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/LAXOR)
 
 ## Creator Info
-Tomomasa Yamasaki  
-Singapore University of Technology and Design (Sep 2021 intake)
+### Tomomasa Yamasaki  
+Singapore University of Technology and Design (Sep 2021 intake)  
+Linkedin: https://www.linkedin.com/in/tomomasa/  
+Github: https://github.com/tomomasayamasaki
 
 ## Demo
 <img src="https://github.com/tomomasayamasaki/LAXOR/blob/main/README/LAXOR.gif" width="833" height="735"/>
