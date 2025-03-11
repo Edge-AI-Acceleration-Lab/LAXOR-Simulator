@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/last-commit/tomomasayamasaki/LAXOR)
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/LAXOR)
 
-## Creator Info
+## 🟨 Creator Info
 ### Tomomasa Yamasaki  
 Singapore University of Technology and Design (Sep 2021 intake)  
 Linkedin: https://www.linkedin.com/in/tomomasa/  
